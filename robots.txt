@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.testplat.cn/sitemap.xml
